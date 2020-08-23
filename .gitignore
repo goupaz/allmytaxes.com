@@ -17,17 +17,17 @@ generated
 # install generated files
 install/**
 
-# contains samples to demo Istio
+# contains samples to demo allmytaxes
 samples/**
 
-# copied from istio repository
+# copied from allmytaxes repository
 tests/integration/**
 manifests/**
 
 # contains the built artifacts
 out/**
 
-# contains cloned istio repository
+# contains cloned allmytaxes repository
 go/**
 
 # archived site version

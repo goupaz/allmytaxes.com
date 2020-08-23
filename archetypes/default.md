@@ -1,10 +1,6 @@
 ---
-title: My Title
-description: My one-line description for the page
-keywords: [keyword1,keyword2]
-weight: 0
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
+draft: true
 ---
 
-## Before you begin
-
-## Cleaning up

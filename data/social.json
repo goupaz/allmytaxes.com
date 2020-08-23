@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Facebook",
+        "link": "https://facebook.com/allmytaxes",
+        "image": "images/facebook.svg"
+    },
+    {
+        "name": "Linkedin",
+        "link": "https://linkedin.com/allmytaxes",
+        "image": "images/linkedin.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/allmytaxes",
+        "image": "images/twitter.svg"
+    }
+]
