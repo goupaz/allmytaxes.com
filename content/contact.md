@@ -7,8 +7,9 @@ menu: 'main'
 
 Phone: [+1 ] 408 624 6440
 
-Address: SVI HUB, Silicon Valley,
-         350 Oakmead Pkwy Suite 200, Sunnyvale, California, 94085, US
+SVI HUB, Silicon Valley
+350 Oakmead Pkwy Suite 200 
+Sunnyvale, California, 94085, US
 
 Work Hours:
 
