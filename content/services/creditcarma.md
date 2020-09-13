@@ -6,7 +6,12 @@ featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+File 100% free from start to finish.
+Smart, simple and 100% free filing makes Tax Season the best season.
+* Max Refund Guarantee¹
+* Smart File streamlined filing process
+* Accurate Calculations Guarantee²
+* Free Audit Defense³
 
 ![Accounting Services](/images/stocks_pict.jpg)
 
