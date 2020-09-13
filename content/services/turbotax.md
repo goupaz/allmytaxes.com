@@ -13,7 +13,7 @@ Is your adjusted gross income (AGI) $36,000 or less?
 
 Were you active duty military in 2019 with an AGI of $69,000 or less?
 
-![Accounting Services](/images/turbotax.jpeg)
+![Accounting Services](/images/turbotax.jpg)
 
 Go to Turbo Tax to file!
 [TurboTax](https://freefile.intuit.com)
