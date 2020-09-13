@@ -16,4 +16,4 @@ Smart, simple and 100% free filing makes Tax Season the best season.
 ![Accounting Services](/images/creditkarma.png)
 
 Go to Credit Karma Tax to file!
-[<img src="https://raw.githubusercontent.com/goupaz/allmytaxes.com/master/static/images/getstarted.png" width="25"/>](https://www.creditkarma.com/tax)
+[<img src="https://github.com/goupaz/allmytaxes.com/blob/master/static/images/getstarted.png?raw=true" width="25"/>](https://www.creditkarma.com/tax)
