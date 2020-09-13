@@ -13,7 +13,7 @@ Smart, simple and 100% free filing makes Tax Season the best season.
 * Accurate Calculations Guarantee²
 * Free Audit Defense³
 
-![Accounting Services](/images/stocks_pict.jpg)
+![Accounting Services](/images/creditkarma.png)
 
 Go to Credit Karma Tax to file!
 [CreditKarma Tax](https://www.creditkarma.com/tax)

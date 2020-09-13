@@ -6,8 +6,6 @@ draft: false
 weight: 3
 ---
 
-Free Tax USA
-
 Do it right. Do it for free.®
 
 * Federal Tax Return	Free
