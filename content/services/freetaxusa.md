@@ -17,7 +17,7 @@ Do it right. Do it for free.®
 * Deluxe Edition		$6.99
 
 
-![Accounting Services](/images/stocks_pict.jpg)
+![Accounting Services](/images/freetaxusa.png)
 
 Go to Free Tax USA to file!
 [FreeTaxUSA](https://www.freetaxusa.com)
