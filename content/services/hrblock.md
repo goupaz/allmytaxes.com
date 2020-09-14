@@ -21,7 +21,7 @@ Tax situations
 * Social Security income
 * Child tax credit
 
-![Accounting Services](/images/hr.jpg)
+![Accounting Services](/images/hr.png)
 
 Go to HR Block to file!
 [HRBlock](https://www.hrblock.com)
